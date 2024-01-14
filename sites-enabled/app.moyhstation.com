@@ -1,0 +1,1 @@
+/etc/nginx/sites-available/app.moyhstation.com
